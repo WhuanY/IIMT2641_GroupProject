@@ -2,4 +2,4 @@
 
 An outline for all datasets to be chosen before we write a proposal.
 
-- [Medical-Cost-Prediction](insurance.csv)
+- [Medical-Cost-Prediction](SahilChachra/Medical-Cost-Prediction/insurance.csv)
